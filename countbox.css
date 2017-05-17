@@ -32,7 +32,7 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 240px;
+  width: 16%;
   transform: translateX(-50%) translateY(-50%);
   border: solid 3px white;
 }
